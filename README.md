@@ -91,7 +91,7 @@ All attacks were analyzed using Azure Sign-in Logs, just like real SOC analysts 
 - Single-factor authentication  
 
 ![Japan VPN Login](<https://github.com/BhagyaDharennavar/Azure-IAM-Security-Project/blob/main/Screenshot/unknown%20ip.png>)
-![Japan Location](<sandbox:/mnt/data/unknow ip.png>)
+![Japan Location](<https://github.com/BhagyaDharennavar/Azure-IAM-Security-Project/blob/main/Screenshot/unknow%20ip.png>)
 
 ---
 
