@@ -54,7 +54,7 @@ All attacks were analyzed using Azure Sign-in Logs, just like real SOC analysts 
 - Single-factor authentication used  
 - Same location, same device  
 
-![No MFA Login](<sandbox:/mnt/data/No MFA.png>)
+![No MFA Login](<https://github.com/BhagyaDharennavar/Azure-IAM-Security-Project/blob/main/Screenshot/No%20MFA.png>)
 
 ---
 
