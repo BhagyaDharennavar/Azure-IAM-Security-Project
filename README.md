@@ -65,7 +65,7 @@ All attacks were analyzed using Azure Sign-in Logs, just like real SOC analysts 
 - Error code **50126** (Invalid username/password)  
 - IP, location, timestamp captured  
 
-*![Failed Login](<sandbox:/mnt/data/Failed login azure.png>)
+*![Failed Login](<https://github.com/BhagyaDharennavar/Azure-IAM-Security-Project/blob/main/Screenshot/Failed%20login%20azure.png>)
 
 
 ---
