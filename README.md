@@ -90,7 +90,7 @@ All attacks were analyzed using Azure Sign-in Logs, just like real SOC analysts 
 - Browser fingerprint: Chrome Mobile  
 - Single-factor authentication  
 
-![Japan VPN Login](<sandbox:/mnt/data/unknown ip.png>)
+![Japan VPN Login](<https://github.com/BhagyaDharennavar/Azure-IAM-Security-Project/blob/main/Screenshot/unknown%20ip.png>)
 ![Japan Location](<sandbox:/mnt/data/unknow ip.png>)
 
 ---
