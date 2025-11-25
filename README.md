@@ -138,7 +138,6 @@ Azure-IAM-Security-Project/
 │   ├── normal-login.png
 │
 ├── README.md
-└── project-report.pdf (optional)
 ```
 
 ## 🏁 Conclusion
