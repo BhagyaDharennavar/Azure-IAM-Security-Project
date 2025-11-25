@@ -54,7 +54,7 @@ All attacks were analyzed using Azure Sign-in Logs, just like real SOC analysts 
 - Single-factor authentication used  
 - Same location, same device  
 
-📸 Screenshot: *normal-login.png*
+![No MFA Login](<sandbox:/mnt/data/No MFA.png>)
 
 ---
 
@@ -65,7 +65,8 @@ All attacks were analyzed using Azure Sign-in Logs, just like real SOC analysts 
 - Error code **50126** (Invalid username/password)  
 - IP, location, timestamp captured  
 
-📸 Screenshot: *failed-login.png*
+*![Failed Login](<sandbox:/mnt/data/Failed login azure.png>)
+
 
 ---
 
@@ -76,7 +77,8 @@ All attacks were analyzed using Azure Sign-in Logs, just like real SOC analysts 
 - Chrome Mobile browser  
 - New session fingerprint  
 
-📸 Screenshots: *mobile-login.png*, *mobile-login-1.png*
+![Mobile Login 1](<sandbox:/mnt/data/moblie login.png>)
+![Mobile Login 2](<sandbox:/mnt/data/moblie login 1.png>)
 
 ---
 
@@ -88,7 +90,8 @@ All attacks were analyzed using Azure Sign-in Logs, just like real SOC analysts 
 - Browser fingerprint: Chrome Mobile  
 - Single-factor authentication  
 
-📸 Screenshots: *japan-vpn-login.png*
+![Japan VPN Login](<sandbox:/mnt/data/unknown ip.png>)
+![Japan Location](<sandbox:/mnt/data/unknow ip.png>)
 
 ---
 
