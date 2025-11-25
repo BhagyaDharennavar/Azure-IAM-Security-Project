@@ -77,7 +77,7 @@ All attacks were analyzed using Azure Sign-in Logs, just like real SOC analysts 
 - Chrome Mobile browser  
 - New session fingerprint  
 
-![Mobile Login 1](<sandbox:/mnt/data/moblie login.png>)
+![Mobile Login 1](<https://github.com/BhagyaDharennavar/Azure-IAM-Security-Project/blob/main/Screenshot/moblie%20login%201.png>)
 ![Mobile Login 2](<https://github.com/BhagyaDharennavar/Azure-IAM-Security-Project/blob/main/Screenshot/moblie%20login.png>)
 
 ---
